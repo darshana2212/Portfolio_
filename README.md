@@ -1,78 +1,79 @@
-# 🌸 Darshana Baskar - Portfolio Website
+# 🌸 Darshana Baskar - Anime Portfolio Website
 
 Welcome to my personal portfolio website repository ✨  
-This project showcases my skills, projects, and journey as a Computer Science Engineering student.
+This project is a premium anime-style developer portfolio showcasing my skills, projects, and journey as a Computer Science Engineering student.
 
 ---
 
 ## 👩‍💻 About Me
 
-Hi! I'm **Darshana Baskar**, a Computer Science Engineering student at **CIT (Coimbatore Institute of Technology)**.  
-I enjoy building full-stack applications, exploring AI systems, and creating modern UI experiences.
+Hi! I'm **Darshana Baskar**, a Computer Science Engineering student at **CIT (Coimbatore Institute of Technology)**.
+
+I enjoy building full-stack applications, exploring AI systems, and designing clean, modern UI experiences. I love turning ideas into real-world projects.
 
 ---
 
 ## 🚀 Live Website
 
-👉 https://darshana2212.github.io/sample_repo/
+👉 https://darshana2212.github.io/Portfolio_/
 
 ---
 
 ## 🛠️ Tech Stack
 
-- HTML5
-- CSS3
-- JavaScript
-- Java
-- Python
-- FastAPI
-- Supabase
-- SQL
-- Git & GitHub
+- HTML5  
+- CSS3 (Glassmorphism + Anime UI Design)  
+- JavaScript  
+- Java  
+- Python  
+- FastAPI  
+- Supabase  
+- SQL  
+- Git & GitHub  
 
 ---
 
-## 📁 Projects
+## 📁 Featured Projects
 
 ### 🤖 Multi-LLM Evaluation Playground
-A system that compares multiple LLM outputs and evaluates responses based on performance and quality metrics.
+A system that compares responses from multiple LLMs and evaluates outputs based on quality, accuracy, and performance scoring.
 
 ### 📄 Invoice Processing Lite
-A smart invoice processing system with structured data extraction and workflow automation.
+An intelligent invoice processing system with structured data extraction, workflow tracking, and automation support.
 
 ---
 
-## 🎯 Features
+## 🎯 Portfolio Features
 
-- Anime-style UI design 🌸
-- Responsive portfolio layout
-- Skills showcase section
-- Project descriptions
-- Contact information section
+- Anime-inspired UI design 🌸  
+- Glassmorphism cards & glowing effects  
+- Responsive layout  
+- Smooth navigation sections  
+- Clean developer portfolio structure  
 
 ---
 
-## 🎮 Hobbies
+## 🎮 Hobbies & Interests
 
 - Watching Anime 🎌  
-- UI/UX design  
-- Coding & building side projects  
-- Exploring AI tools  
-- Late-night development sessions 🌙  
+- UI/UX Design  
+- Building Full-Stack Projects  
+- Exploring AI & LLM tools  
+- Late-night coding sessions 🌙  
 
 ---
 
 ## 📬 Contact
 
-- 📧 Email: **darshana@gmail.com**
-- 💻 GitHub: [darshana2212](https://github.com/darshana2212)
+- 📧 Email: darshana@gmail.com  
+- 💻 GitHub: https://github.com/darshana2212  
 
 ---
 
-## 💖 Aesthetic
+## 💖 Design Style
 
-Designed with a soft anime-inspired theme and glassmorphism UI to reflect creativity and simplicity.
+This portfolio follows a modern anime aesthetic UI with soft gradients, glassmorphism effects, and a clean developer-focused layout.
 
 ---
 
-⭐ If you like this project, feel free to star the repo!
+⭐ If you like this project, feel free to star the repository!
