@@ -1,7 +1,7 @@
-# 🌸 Darshana Baskar - Anime Portfolio Website
+# 🌸 Darshana Baskar -  Portfolio Website
 
 Welcome to my personal portfolio website repository ✨  
-This project is a premium anime-style developer portfolio showcasing my skills, projects, and journey as a Computer Science Engineering student.
+This project is a developer portfolio showcasing my skills, projects, and journey as a Computer Science Engineering student.
 
 ---
 
@@ -22,7 +22,7 @@ I enjoy building full-stack applications, exploring AI systems, and designing cl
 ## 🛠️ Tech Stack
 
 - HTML5  
-- CSS3 (Glassmorphism + Anime UI Design)  
+- CSS3 (Glassmorphism +  UI Design)  
 - JavaScript  
 - Java  
 - Python  
